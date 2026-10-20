@@ -5,8 +5,9 @@
 
 <p align="center">
   <a href="https://alekha1234.github.io/alekha1234/"><b>Interactive 3D lab</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://alekha1234.github.io/gujurialekha.github.io/">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gujuri-alekha/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://gujurialekha.github.io/">Portfolio</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gujurialekha/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://gujurialekha.github.io/blog/">Blog</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://alekha1234.github.io/gujurialekha.github.io/my_documents/resume/gujuri_alekha_resume.pdf">Resume</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:gujurialekha@gmail.com">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.kaggle.com/gujurialekha">Kaggle</a>
@@ -146,7 +147,7 @@ What I'm adding publicly, in this order: **tests → evaluation harness → Fast
 
 ## `08` — Find me
 
-[Portfolio](https://alekha1234.github.io/gujurialekha.github.io/) · [LinkedIn](https://www.linkedin.com/in/gujuri-alekha/) · [Resume](https://alekha1234.github.io/gujurialekha.github.io/my_documents/resume/gujuri_alekha_resume.pdf) · [gujurialekha@gmail.com](mailto:gujurialekha@gmail.com) · [Kaggle](https://www.kaggle.com/gujurialekha) · Bengaluru, India
+[Portfolio](https://gujurialekha.github.io/) · [LinkedIn](https://www.linkedin.com/in/gujurialekha/) · [Blog](https://gujurialekha.github.io/blog/) · [Resume](https://alekha1234.github.io/gujurialekha.github.io/my_documents/resume/gujuri_alekha_resume.pdf) · [gujurialekha@gmail.com](mailto:gujurialekha@gmail.com) · [Kaggle](https://www.kaggle.com/gujurialekha) · Bengaluru, India
 
 <sub>MCA, Machine Learning & AI — Lovely Professional University (2025–2027) · B.Sc. Physics — Science Degree College, Kukudakhandi (2018–2021)<br>
 Certified Data Scientist — IABAC (2023) · Certified Data Scientist — NASSCOM FutureSkills Prime / MeitY (2023) · Data Science Immersive — DataMites (2023)</sub>
